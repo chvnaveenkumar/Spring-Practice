@@ -1,0 +1,14 @@
+	How to create an web application in eclipse?
+	
+	File  -> new -> others -> web -> dynamic web project
+
+	
+	All HTMl Files in the WebContent.
+	
+	1. Web.xml 
+			<welcome-file> - tells the first document execute.
+					         It checks files one by one. If no files exists then it will give error.
+	
+	2. By default HTTP port is 8080.
+	3. Create index.html page in the webContent
+	
